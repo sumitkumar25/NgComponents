@@ -1,0 +1,55 @@
+<h2>Angular filters</h2>
+<h3>Single selection filter</h3>
+<section>
+    <h4>Filter by airport codes and city codes</h4>
+
+    <div class="filters">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <label>Character</label>
+                <input type="text" uib-typeahead="alpha for alpha in alphabets|filter:$viewValue"
+                       ng-model="alphabetFilter"
+                       typeahead-on-select="CharacterFilterInc($item, $model, $label, $event)">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <label>Numbers</label>
+                <input type="text" uib-typeahead="num for num in numbers| filter:$viewValue" ng-model="numberFilter"
+                       typeahead-on-select="NumberFilterInc($item, $model, $label, $event)"/>
+            </div>
+        </div>
+    </div>
+    <div class="">
+        <h5>Filtered by</h5>
+
+        <div class="filtered-by row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div ng-repeat="n in af track by $index">alphabet filter by {{n}}</div>
+                <!--<div ng-repeat="n in numbers track by $index">alphabet filter by {{n}}</div>-->
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div ng-repeat="n in nf track by $index">number filter by {{n}}</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <table class="table-inverse table-striped table">
+        <thead>
+        <tr>
+            <th>Ariport Code</th>
+            <th>City Code</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="data in airportData|CharacterFilter:af|NumberFilter:nf track by $index">
+            <td>{{data.airportCode}}</td>
+            <td>{{data.cityCode}}</td>
+            <td>{{data.latitude}}</td>
+            <td>{{data.longitude}}</td>
+        </tr>
+        </tbody>
+    </table>
+</section>
+

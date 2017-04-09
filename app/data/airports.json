@@ -1,0 +1,785 @@
+{
+  "airports": [
+    {
+      "airportCode": "SYD",
+      "longitude": "151.166373",
+      "latitude": "-33.932171",
+      "cityCode": "SYD"
+    },
+    {
+      "airportCode": "MEL",
+      "longitude": "144.846788",
+      "latitude": "-37.665342",
+      "cityCode": "MEL"
+    },
+    {
+      "airportCode": "PER",
+      "longitude": "115.973685",
+      "latitude": "-31.94182",
+      "cityCode": "PER"
+    },
+    {
+      "airportCode": "BNE",
+      "longitude": "153.109749",
+      "latitude": "-27.403678",
+      "cityCode": "BNE"
+    },
+    {
+      "airportCode": "ADL",
+      "longitude": "138.537334",
+      "latitude": "-34.938736",
+      "cityCode": "ADL"
+    },
+    {
+      "airportCode": "CNS",
+      "longitude": "145.75547",
+      "latitude": "-16.873132",
+      "cityCode": "CNS"
+    },
+    {
+      "airportCode": "GBW",
+      "longitude": "119.925421",
+      "latitude": "-22.444091",
+      "cityCode": "GBW"
+    },
+    {
+      "airportCode": "VIE",
+      "longitude": "16.373819",
+      "latitude": "48.208174",
+      "cityCode": "VIE"
+    },
+    {
+      "airportCode": "BAH",
+      "longitude": "50.636365",
+      "latitude": "26.271174",
+      "cityCode": "BAH"
+    },
+    {
+      "airportCode": "DAC",
+      "longitude": "90.405909",
+      "latitude": "23.848633",
+      "cityCode": "DAC"
+    },
+    {
+      "airportCode": "BWN",
+      "longitude": "79.884331",
+      "latitude": "7.182651",
+      "cityCode": "BWN"
+    },
+    {
+      "airportCode": "PNH",
+      "longitude": "104.847877",
+      "latitude": "11.546033",
+      "cityCode": "PNH"
+    },
+    {
+      "airportCode": "REP",
+      "longitude": "103.864482",
+      "latitude": "13.369872",
+      "cityCode": "REP"
+    },
+    {
+      "airportCode": "YVR",
+      "longitude": "-123.181244",
+      "latitude": "49.193593",
+      "cityCode": "YVR"
+    },
+    {
+      "airportCode": "YYZ",
+      "longitude": "-79.611597",
+      "latitude": "43.683888",
+      "cityCode": "YTO"
+    },
+    {
+      "airportCode": "PEK",
+      "longitude": "116.592014",
+      "latitude": "40.075379",
+      "cityCode": "BJS"
+    },
+    {
+      "airportCode": "PVG",
+      "longitude": "121.798423",
+      "latitude": "31.163459",
+      "cityCode": "SHA"
+    },
+    {
+      "airportCode": "SHA+",
+      "longitude": "121.346262",
+      "latitude": "31.193494",
+      "cityCode": "SHA"
+    },
+    {
+      "airportCode": "NBS",
+      "longitude": "127.817688",
+      "latitude": "42.075801",
+      "cityCode": "NBS"
+    },
+    {
+      "airportCode": "CSX",
+      "longitude": "113.219002",
+      "latitude": "28.193227",
+      "cityCode": "CSX"
+    },
+    {
+      "airportCode": "CTU",
+      "longitude": "103.958579",
+      "latitude": "30.579073",
+      "cityCode": "CTU"
+    },
+    {
+      "airportCode": "CKG",
+      "longitude": "106.640633",
+      "latitude": "29.716961",
+      "cityCode": "CKG"
+    },
+    {
+      "airportCode": "DCY",
+      "longitude": "100.065980",
+      "latitude": "29.311961",
+      "cityCode": "DCY"
+    },
+    {
+      "airportCode": "FYJ",
+      "longitude": "134.368636",
+      "latitude": "48.220579",
+      "cityCode": "FYJ"
+    },
+    {
+      "airportCode": "FOC",
+      "longitude": "119.672906",
+      "latitude": "25.92914",
+      "cityCode": "FOC"
+    },
+    {
+      "airportCode": "CAN",
+      "longitude": "113.303122",
+      "latitude": "23.386114",
+      "cityCode": "CAN"
+    },
+    {
+      "airportCode": "KWL",
+      "longitude": "110.051066",
+      "latitude": "25.216667",
+      "cityCode": "KWL"
+    },
+    {
+      "airportCode": "HAK",
+      "longitude": "110.463358",
+      "latitude": "19.948178",
+      "cityCode": "HAK"
+    },
+    {
+      "airportCode": "HGH",
+      "longitude": "120.437744",
+      "latitude": "30.234228",
+      "cityCode": "HGH"
+    },
+    {
+      "airportCode": "HZG",
+      "longitude": "107.195792",
+      "latitude": "33.126159",
+      "cityCode": "HZG"
+    },
+    {
+      "airportCode": "KMG",
+      "longitude": "102.934930",
+      "latitude": "25.101338",
+      "cityCode": "KMG"
+    },
+    {
+      "airportCode": "NKG",
+      "longitude": "118.870996",
+      "latitude": "31.732639",
+      "cityCode": "NKG"
+    },
+    {
+      "airportCode": "NGB",
+      "longitude": "121.466634",
+      "latitude": "29.818818",
+      "cityCode": "NGB"
+    },
+    {
+      "airportCode": "TAO",
+      "longitude": "120.386322",
+      "latitude": "36.266326",
+      "cityCode": "TAO"
+    },
+    {
+      "airportCode": "SYX",
+      "longitude": "109.413103",
+      "latitude": "18.303721",
+      "cityCode": "SYX"
+    },
+    {
+      "airportCode": "WNZ",
+      "longitude": "120.854364",
+      "latitude": "27.924351",
+      "cityCode": "WNZ"
+    },
+    {
+      "airportCode": "WUH",
+      "longitude": "114.213243",
+      "latitude": "30.772971",
+      "cityCode": "WUH"
+    },
+    {
+      "airportCode": "XIY",
+      "longitude": "108.767395",
+      "latitude": "34.470335",
+      "cityCode": "SIA"
+    },
+    {
+      "airportCode": "XMN",
+      "longitude": "118.131495",
+      "latitude": "24.533923",
+      "cityCode": "XMN"
+    },
+    {
+      "airportCode": "ENY",
+      "longitude": "109.553333",
+      "latitude": "36.636667",
+      "cityCode": "ENY"
+    },
+    {
+      "airportCode": "CGO",
+      "longitude": "113.844246",
+      "latitude": "34.551811",
+      "cityCode": "CGO"
+    },
+    {
+      "airportCode": "CPH",
+      "longitude": "12.650763",
+      "latitude": "55.618024",
+      "cityCode": "CPH"
+    },
+    {
+      "airportCode": "HEL",
+      "longitude": "24.938379",
+      "latitude": "60.169856",
+      "cityCode": "HEL"
+    },
+    {
+      "airportCode": "CDG",
+      "longitude": "2.548589",
+      "latitude": "49.009867",
+      "cityCode": "PAR"
+    },
+    {
+      "airportCode": "FRA",
+      "longitude": "8.561082",
+      "latitude": "50.038675",
+      "cityCode": "FRA"
+    },
+    {
+      "airportCode": "DUS",
+      "longitude": "6.7833",
+      "latitude": "51.2333",
+      "cityCode": "DUS"
+    },
+    {
+      "airportCode": "HKG",
+      "longitude": "113.935472",
+      "latitude": "22.315997",
+      "cityCode": "HKG"
+    },
+    {
+      "airportCode": "DEL",
+      "longitude": "77.085516",
+      "latitude": "28.555783",
+      "cityCode": "DEL"
+    },
+    {
+      "airportCode": "BOM",
+      "longitude": "72.854728",
+      "latitude": "19.093175",
+      "cityCode": "BOM"
+    },
+    {
+      "airportCode": "BLR",
+      "longitude": "77.709553",
+      "latitude": "13.201719",
+      "cityCode": "BLR"
+    },
+    {
+      "airportCode": "MAA",
+      "longitude": "80.162665",
+      "latitude": "12.982113",
+      "cityCode": "MAA"
+    },
+    {
+      "airportCode": "HYD",
+      "longitude": "78.428624",
+      "latitude": "17.240498",
+      "cityCode": "HYD"
+    },
+    {
+      "airportCode": "CCU",
+      "longitude": "88.442933",
+      "latitude": "22.652671",
+      "cityCode": "CCU"
+    },
+    {
+      "airportCode": "CGK",
+      "longitude": "106.658349",
+      "latitude": "-6.125962",
+      "cityCode": "JKT"
+    },
+    {
+      "airportCode": "DPS",
+      "longitude": "115.167423",
+      "latitude": "-8.74734",
+      "cityCode": "DPS"
+    },
+    {
+      "airportCode": "SUB",
+      "longitude": "112.78515",
+      "latitude": "-7.381534",
+      "cityCode": "SUB"
+    },
+    {
+      "airportCode": "DUB",
+      "longitude": "53.42",
+      "latitude": "-6.249",
+      "cityCode": "DUB"
+    },
+    {
+      "airportCode": "TLV",
+      "longitude": "32.0055343",
+      "latitude": "34.8843169",
+      "cityCode": "TLV"
+    },
+    {
+      "airportCode": "FCO",
+      "longitude": "12.255564",
+      "latitude": "41.802671",
+      "cityCode": "ROM"
+    },
+    {
+      "airportCode": "MXP",
+      "longitude": "8.722429",
+      "latitude": "45.630125",
+      "cityCode": "MIL"
+    },
+    {
+      "airportCode": "HND",
+      "longitude": "139.783809",
+      "latitude": "35.548988",
+      "cityCode": "TYO"
+    },
+    {
+      "airportCode": "NRT",
+      "longitude": "140.384582",
+      "latitude": "35.764082",
+      "cityCode": "TYO"
+    },
+    {
+      "airportCode": "FUK",
+      "longitude": "130.448495",
+      "latitude": "33.595863",
+      "cityCode": "FUK"
+    },
+    {
+      "airportCode": "HIJ",
+      "longitude": "132.4553",
+      "latitude": "34.3853",
+      "cityCode": "HIJ"
+    },
+    {
+      "airportCode": "NGO",
+      "longitude": "136.80527",
+      "latitude": "34.859207",
+      "cityCode": "NGO"
+    },
+    {
+      "airportCode": "OKA",
+      "longitude": "127.650611",
+      "latitude": "26.206621",
+      "cityCode": "OKA"
+    },
+    {
+      "airportCode": "KIX",
+      "longitude": "135.243967",
+      "latitude": "34.435408",
+      "cityCode": "OSA"
+    },
+    {
+      "airportCode": "ITM",
+      "longitude": "135.4415",
+      "latitude": "34.792096",
+      "cityCode": "OSA"
+    },
+    {
+      "airportCode": "CTS",
+      "longitude": "141.68144",
+      "latitude": "42.787685",
+      "cityCode": "SPK"
+    },
+    {
+      "airportCode": "KUM",
+      "longitude": "130.658832",
+      "latitude": "30.383383",
+      "cityCode": "KUM"
+    },
+    {
+      "airportCode": "ICN",
+      "longitude": "126.451187",
+      "latitude": "37.448799",
+      "cityCode": "SEL"
+    },
+    {
+      "airportCode": "PUS",
+      "longitude": "128.946455",
+      "latitude": "35.173212",
+      "cityCode": "PUS"
+    },
+    {
+      "airportCode": "CJU",
+      "longitude": "126.493235",
+      "latitude": "33.509268",
+      "cityCode": "CJU"
+    },
+    {
+      "airportCode": "KUL",
+      "longitude": "101.70477",
+      "latitude": "2.754125",
+      "cityCode": "KUL"
+    },
+    {
+      "airportCode": "PEN",
+      "longitude": "100.276861",
+      "latitude": "5.297214",
+      "cityCode": "PEN"
+    },
+    {
+      "airportCode": "BKI",
+      "longitude": "116.049591",
+      "latitude": "5.929771",
+      "cityCode": "BKI"
+    },
+    {
+      "airportCode": "MLE",
+      "longitude": "73.528906",
+      "latitude": "4.190462",
+      "cityCode": "MLE"
+    },
+    {
+      "airportCode": "RGN",
+      "longitude": "96.135165",
+      "latitude": "16.910751",
+      "cityCode": "RGN"
+    },
+    {
+      "airportCode": "KTM",
+      "longitude": "85.358925",
+      "latitude": "27.696783",
+      "cityCode": "KTM"
+    },
+    {
+      "airportCode": "AMS",
+      "longitude": "4.763795",
+      "latitude": "52.309023",
+      "cityCode": "AMS"
+    },
+    {
+      "airportCode": "AKL",
+      "longitude": "174.782812",
+      "latitude": "-37.00574",
+      "cityCode": "AKL"
+    },
+    {
+      "airportCode": "OSL",
+      "longitude": "11.100351",
+      "latitude": "60.197587",
+      "cityCode": "OSL"
+    },
+    {
+      "airportCode": "KHI",
+      "longitude": "67.156845",
+      "latitude": "24.902942",
+      "cityCode": "KHI"
+    },
+    {
+      "airportCode": "MNL",
+      "longitude": "121.012976",
+      "latitude": "14.509124",
+      "cityCode": "MNL"
+    },
+    {
+      "airportCode": "CEB",
+      "longitude": "123.980818",
+      "latitude": "10.311045",
+      "cityCode": "CEB"
+    },
+    {
+      "airportCode": "CRK",
+      "longitude": "120.539718",
+      "latitude": "15.18692",
+      "cityCode": "CRK"
+    },
+    {
+      "airportCode": "DOH",
+      "longitude": "51.522737",
+      "latitude": "25.286921",
+      "cityCode": "DOH"
+    },
+    {
+      "airportCode": "DME",
+      "longitude": "37.761712",
+      "latitude": "55.438996",
+      "cityCode": "MOW"
+    },
+    {
+      "airportCode": "KHV",
+      "longitude": "135.080818",
+      "latitude": "48.502048",
+      "cityCode": "KHV"
+    },
+    {
+      "airportCode": "LED",
+      "longitude": "30.315193",
+      "latitude": "59.95776",
+      "cityCode": "LED"
+    },
+    {
+      "airportCode": "VVO",
+      "longitude": "131.934025",
+      "latitude": "43.179144",
+      "cityCode": "VVO"
+    },
+    {
+      "airportCode": "RUH",
+      "longitude": "46.703002",
+      "latitude": "24.95937",
+      "cityCode": "RUH"
+    },
+    {
+      "airportCode": "JED",
+      "longitude": "39.158163",
+      "latitude": "21.678965",
+      "cityCode": "JED"
+    },
+    {
+      "airportCode": "SIN",
+      "longitude": "103.98922",
+      "latitude": "1.356878",
+      "cityCode": "SIN"
+    },
+    {
+      "airportCode": "JNB",
+      "longitude": "28.242606",
+      "latitude": "-26.133652",
+      "cityCode": "JNB"
+    },
+    {
+      "airportCode": "CPT",
+      "longitude": "18.602074",
+      "latitude": "-33.971209",
+      "cityCode": "CPT"
+    },
+    {
+      "airportCode": "DUR",
+      "longitude": "31.116887",
+      "latitude": "-29.609964",
+      "cityCode": "DUR"
+    },
+    {
+      "airportCode": "PLZ",
+      "longitude": "25.614675",
+      "latitude": "-33.987226",
+      "cityCode": "PLZ"
+    },
+    {
+      "airportCode": "BFN",
+      "longitude": "26.298724",
+      "latitude": "-29.092436",
+      "cityCode": "BFN"
+    },
+    {
+      "airportCode": "MAD",
+      "longitude": "-3.566811",
+      "latitude": "40.483981",
+      "cityCode": "MAD"
+    },
+    {
+      "airportCode": "BCN",
+      "longitude": "2.083584",
+      "latitude": "41.296889",
+      "cityCode": "BCN"
+    },
+    {
+      "airportCode": "OVD",
+      "longitude": "-6.0324382",
+      "latitude": "43.559083",
+      "cityCode": "OVD"
+    },
+    {
+      "airportCode": "CMB",
+      "longitude": "79.884369",
+      "latitude": "7.181618",
+      "cityCode": "CMB"
+    },
+    {
+      "airportCode": "ARN",
+      "longitude": "17.923770",
+      "latitude": "59.649759",
+      "cityCode": "STO"
+    },
+    {
+      "airportCode": "GOT",
+      "longitude": "12.292357",
+      "latitude": "57.668765",
+      "cityCode": "GOT"
+    },
+    {
+      "airportCode": "ZRH",
+      "longitude": "8.55548",
+      "latitude": "47.45822",
+      "cityCode": "ZRH"
+    },
+    {
+      "airportCode": "TPE",
+      "longitude": "121.224085",
+      "latitude": "25.076387",
+      "cityCode": "TPE"
+    },
+    {
+      "airportCode": "KHH",
+      "longitude": "120.345266",
+      "latitude": "22.572081",
+      "cityCode": "KHH"
+    },
+    {
+      "airportCode": "RMQ",
+      "longitude": "120.600173",
+      "latitude": "24.256825",
+      "cityCode": "RMQ"
+    },
+    {
+      "airportCode": "TNN",
+      "longitude": "120.216293",
+      "latitude": "22.947707",
+      "cityCode": "TNN"
+    },
+    {
+      "airportCode": "BKK",
+      "longitude": "100.750380",
+      "latitude": "13.692699",
+      "cityCode": "BKK"
+    },
+    {
+      "airportCode": "CNX",
+      "longitude": "98.964475",
+      "latitude": "18.77209",
+      "cityCode": "CNX"
+    },
+    {
+      "airportCode": "HKT",
+      "longitude": "98.312849",
+      "latitude": "8.11028",
+      "cityCode": "HKT"
+    },
+    {
+      "airportCode": "AUH",
+      "longitude": "54.650445",
+      "latitude": "24.432459",
+      "cityCode": "AUH"
+    },
+    {
+      "airportCode": "DXB",
+      "longitude": "55.364828",
+      "latitude": "25.254866",
+      "cityCode": "DXB"
+    },
+    {
+      "airportCode": "LHR",
+      "longitude": "-0.457151",
+      "latitude": "51.471528",
+      "cityCode": "LON"
+    },
+    {
+      "airportCode": "LGW",
+      "longitude": "-0.182095",
+      "latitude": "51.153837",
+      "cityCode": "LON"
+    },
+    {
+      "airportCode": "MAN",
+      "longitude": "-2.248181",
+      "latitude": "53.484777",
+      "cityCode": "MAN"
+    },
+    {
+      "airportCode": "BWI",
+      "longitude": "-76.669121",
+      "latitude": "39.181175",
+      "cityCode": "BWI"
+    },
+    {
+      "airportCode": "BOS",
+      "longitude": "-71.008584",
+      "latitude": "42.365684",
+      "cityCode": "BOS"
+    },
+    {
+      "airportCode": "ORD",
+      "longitude": "-87.90526",
+      "latitude": "41.976641",
+      "cityCode": "CHI"
+    },
+    {
+      "airportCode": "LAX",
+      "longitude": "-118.409262",
+      "latitude": "33.943467",
+      "cityCode": "LAX"
+    },
+    {
+      "airportCode": "MMH",
+      "longitude": "-118.838854",
+      "latitude": "37.624463",
+      "cityCode": "MMH"
+    },
+    {
+      "airportCode": "JFK",
+      "longitude": "-73.783862",
+      "latitude": "40.649518",
+      "cityCode": "NYC"
+    },
+    {
+      "airportCode": "EWR",
+      "longitude": "-74.178314",
+      "latitude": "40.691702",
+      "cityCode": "NYC"
+    },
+    {
+      "airportCode": "SFO",
+      "longitude": "-122.382571",
+      "latitude": "37.616866",
+      "cityCode": "SFO"
+    },
+    {
+      "airportCode": "SGN",
+      "longitude": "106.653017",
+      "latitude": "10.818806",
+      "cityCode": "SGN"
+    },
+    {
+      "airportCode": "HAN",
+      "longitude": "105.804486",
+      "latitude": "21.218881",
+      "cityCode": "HAN"
+    },
+    {
+      "airportCode": "DAD",
+      "longitude": "108.199389",
+      "latitude": "16.044916",
+      "cityCode": "DAD"
+    },
+    {
+      "airportCode": "LUN",
+      "longitude": "28.454688",
+      "latitude": "-15.322957",
+      "cityCode": "LUN"
+    }
+  ],
+  "errors": null
+}
