@@ -1,4 +1,6 @@
-# `angular-seed` â€” the seed for AngularJS apps
+# NgComponents
+ng1.x components demos.
+# `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
 to quickly bootstrap your angular webapp projects and dev environment for these projects.
